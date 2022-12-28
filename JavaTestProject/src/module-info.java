@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Navis
+ *
+ */
+module JavaTestProject {
+}
