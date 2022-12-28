@@ -6,4 +6,5 @@
  *
  */
 module JavaTestProject {
+	h;
 }
